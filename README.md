@@ -1,3 +1,7 @@
+## License
+
+This project is licensed under the [GPL License](./LICENSE) - see the LICENSE file for details.
+
 # Waiter Tips Prediction
 
 This project predicts the tips given to waiters based on various features such as total bill, gender, smoking status, day of the week, time of day, and party size. The predictions are made using a Linear Regression model.
